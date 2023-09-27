@@ -1,3 +1,4 @@
+# Para éste proyecto utilzar tkinter (el mismo ya viene con el py)
 import tkinter as tk
 
 def calcular():
